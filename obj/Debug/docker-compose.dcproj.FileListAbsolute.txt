@@ -1,0 +1,6 @@
+C:\Users\ariji\source\repos\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\ariji\source\repos\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\ariji\source\repos\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\ariji\source\repos\ObserverPattern\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\ariji\source\repos\ObserverPattern\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\ariji\source\repos\ObserverPattern\obj\Debug\docker-compose.dcproj.CopyComplete

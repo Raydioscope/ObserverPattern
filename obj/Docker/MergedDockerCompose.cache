@@ -1,0 +1,11 @@
+services:
+  observerpattern:
+    build:
+      context: C:\Users\ariji\source\repos\ObserverPattern\ObserverPattern
+      dockerfile: Dockerfile
+    image: observerpattern
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose13667400559286249199_default
